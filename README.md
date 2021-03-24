@@ -10,3 +10,6 @@ Para realizá-lo, foi utilizado a linguagem CodeIgniter na versão 3, um framewo
 A API utilizada para a busca dos CEP's é a ViaCEP: viacep.com.br
 
 Obrigado pela visita!
+
+![BuscaCEP](https://user-images.githubusercontent.com/57143675/112238596-bbf3e780-8c23-11eb-8725-440bd670850b.PNG)
+
