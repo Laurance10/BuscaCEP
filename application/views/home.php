@@ -9,7 +9,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
 	<meta charset="utf-8">
-	<title>Toolsty CEP</title>
+	<title>Busca CEP</title>
 	
 	<script type="text/javascript">
 
@@ -50,7 +50,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 	<div class="container">
 
-		<h2>Toolsty CEP</h2>
+		<h2>Busca CEP</h2>
 
 		<div class="panel panel-default">
 			<div class="panel-heading">
