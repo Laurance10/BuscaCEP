@@ -2,7 +2,6 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 /**
- * Software criado para o processo seletivo da Toolsty.
  * 
  * Autor: Victor Laurance
  * 
